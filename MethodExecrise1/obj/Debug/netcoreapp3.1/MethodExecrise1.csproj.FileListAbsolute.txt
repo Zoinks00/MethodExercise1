@@ -1,0 +1,13 @@
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\obj\Debug\netcoreapp3.1\MethodExecrise1.csproj.AssemblyReference.cache
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\obj\Debug\netcoreapp3.1\MethodExecrise1.AssemblyInfoInputs.cache
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\obj\Debug\netcoreapp3.1\MethodExecrise1.AssemblyInfo.cs
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\obj\Debug\netcoreapp3.1\MethodExecrise1.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\bin\Debug\netcoreapp3.1\MethodExecrise1.exe
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\bin\Debug\netcoreapp3.1\MethodExecrise1.deps.json
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\bin\Debug\netcoreapp3.1\MethodExecrise1.runtimeconfig.json
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\bin\Debug\netcoreapp3.1\MethodExecrise1.runtimeconfig.dev.json
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\bin\Debug\netcoreapp3.1\MethodExecrise1.dll
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\bin\Debug\netcoreapp3.1\MethodExecrise1.pdb
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\obj\Debug\netcoreapp3.1\MethodExecrise1.dll
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\obj\Debug\netcoreapp3.1\MethodExecrise1.pdb
+C:\Users\forre\repos\MethodExecrise1\MethodExecrise1\obj\Debug\netcoreapp3.1\MethodExecrise1.genruntimeconfig.cache
